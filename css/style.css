@@ -77,6 +77,15 @@ h6,
     font-weight: 600 !important;
 }
 
+.fa-fa-map-marker-alt-me-2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+#equipo {
+    color: white;
+    padding: 2px;
+}
 
 /*** Button ***/
 .btn {
@@ -88,7 +97,7 @@ h6,
 .btn-primary,
 .btn-secondary {
     color: #FFFFFF;
-    box-shadow: inset 0 0 0 50px transparent;
+    box-shadow: inset 0px 0 0 50px transparent;
 }
 
 .btn-primary:hover {
